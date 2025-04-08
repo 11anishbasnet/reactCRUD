@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|c:\\users\\dipendra\\desktop\\reactcrud\\backend\\reactcrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|solutionrelative:reactcrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|c:\\users\\dipendra\\desktop\\reactcrud\\backend\\reactcrud\\migrations\\20230716113252_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|solutionrelative:reactcrud\\migrations\\20230716113252_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|c:\\users\\dipendra\\desktop\\reactcrud\\backend\\reactcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|solutionrelative:reactcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|c:\\users\\dipendra\\desktop\\reactcrud\\backend\\reactcrud\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|solutionrelative:reactcrud\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|c:\\users\\dipendra\\desktop\\reactcrud\\backend\\reactcrud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC45145A-1C4B-4731-828B-2A81B6572A1D}|ReactCrud\\ReactCrud.csproj|solutionrelative:reactcrud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20230716113252_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Migrations\\20230716113252_initial.cs",
+              "RelativeDocumentMoniker": "ReactCrud\\Migrations\\20230716113252_initial.cs",
+              "ToolTip": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Migrations\\20230716113252_initial.cs",
+              "RelativeToolTip": "ReactCrud\\Migrations\\20230716113252_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:01:56.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ReactCrud\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ReactCrud\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:01:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ReactCrud\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ReactCrud\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:01:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "ReactCrud\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "ReactCrud\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:01:56.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ReactCrud\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Dipendra\\Desktop\\reactCRUD\\Backend\\ReactCrud\\Models\\Student.cs",
+              "RelativeToolTip": "ReactCrud\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:01:56.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

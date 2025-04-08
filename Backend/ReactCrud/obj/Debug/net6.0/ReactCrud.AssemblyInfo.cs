@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344fe64ca1b3e22fb356e81e6ffa7664443f1de3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+811014ecb52e6ff1c8ae0df433a9d07d1b22f81b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
